@@ -10,3 +10,10 @@
 
 * Gradle 5.6
 * JDK 11
+
+
+![img.png](img.png)
+
+![img_1.png](img_1.png)
+
+![img_2.png](img_2.png)
