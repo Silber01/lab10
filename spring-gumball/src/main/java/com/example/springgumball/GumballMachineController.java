@@ -60,7 +60,8 @@ public class GumballMachineController {
     public String postAction(@Valid @ModelAttribute("command") GumballCommand command,  
                             @RequestParam(value="action", required=true) String action,
                             Errors errors, Model model, HttpServletRequest request) {
-    
+
+        
         log.info( "Action: " + action ) ;
         log.info( "Command: " + command ) ;
     
