@@ -11,7 +11,9 @@
 * Gradle 5.6
 * JDK 11
 
+## Part 1
 
+Workflow for CI checking new commit. This is done after adding the Gradle workflow to the repo and committing a change.
 ![img.png](img.png)
 
 ![img_1.png](img_1.png)
